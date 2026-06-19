@@ -1,0 +1,22 @@
+#alpha{
+    height:400px;
+    width:400px;
+    background-color:white;
+    margin:10px auto;
+    border-radius:10px;
+    border:2px solid lightblue;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+    align-items:center;
+}
+#alpha div{
+    height:100px;
+    width:100px;
+    color:black;
+    text-align:center;
+    font-size:50px;
+    border:2px solid black;
+    border-radius:10px;
+    
+}
